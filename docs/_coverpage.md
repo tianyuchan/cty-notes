@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# Java工程师笔记 <small>cty</small>
+# Java工程师笔记 <small>20230605</small>
 
 > cty的技术博客。
 
@@ -11,5 +11,5 @@
 [GitHub](https://github.com/tianyuchan/cty-notes)
 [Get Started](#Java学习笔记)
 
-![](_media/bg.jpg)
+![bg](_media/bg2.jpg)
 
